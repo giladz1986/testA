@@ -10,3 +10,6 @@ def new_logic_other_print(val : str):
     
 def new_v2_logic_other_print(val : str):
     print("New Main v2 " + val)
+    
+def new_v3_logic_other_print(val : str):
+    print("New Main v3 " + val)
